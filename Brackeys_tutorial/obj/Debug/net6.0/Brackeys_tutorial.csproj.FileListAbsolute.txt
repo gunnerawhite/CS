@@ -1,0 +1,15 @@
+C:\Users\gunne\OneDrive\Desktop\VS Projects\.vscode\CS\Brackeys_tutorial\bin\Debug\net6.0\Brackeys_tutorial.exe
+C:\Users\gunne\OneDrive\Desktop\VS Projects\.vscode\CS\Brackeys_tutorial\bin\Debug\net6.0\Brackeys_tutorial.deps.json
+C:\Users\gunne\OneDrive\Desktop\VS Projects\.vscode\CS\Brackeys_tutorial\bin\Debug\net6.0\Brackeys_tutorial.runtimeconfig.json
+C:\Users\gunne\OneDrive\Desktop\VS Projects\.vscode\CS\Brackeys_tutorial\bin\Debug\net6.0\Brackeys_tutorial.dll
+C:\Users\gunne\OneDrive\Desktop\VS Projects\.vscode\CS\Brackeys_tutorial\bin\Debug\net6.0\Brackeys_tutorial.pdb
+C:\Users\gunne\OneDrive\Desktop\VS Projects\.vscode\CS\Brackeys_tutorial\obj\Debug\net6.0\Brackeys_tutorial.csproj.AssemblyReference.cache
+C:\Users\gunne\OneDrive\Desktop\VS Projects\.vscode\CS\Brackeys_tutorial\obj\Debug\net6.0\Brackeys_tutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gunne\OneDrive\Desktop\VS Projects\.vscode\CS\Brackeys_tutorial\obj\Debug\net6.0\Brackeys_tutorial.AssemblyInfoInputs.cache
+C:\Users\gunne\OneDrive\Desktop\VS Projects\.vscode\CS\Brackeys_tutorial\obj\Debug\net6.0\Brackeys_tutorial.AssemblyInfo.cs
+C:\Users\gunne\OneDrive\Desktop\VS Projects\.vscode\CS\Brackeys_tutorial\obj\Debug\net6.0\Brackeys_tutorial.csproj.CoreCompileInputs.cache
+C:\Users\gunne\OneDrive\Desktop\VS Projects\.vscode\CS\Brackeys_tutorial\obj\Debug\net6.0\Brackeys_tutorial.dll
+C:\Users\gunne\OneDrive\Desktop\VS Projects\.vscode\CS\Brackeys_tutorial\obj\Debug\net6.0\refint\Brackeys_tutorial.dll
+C:\Users\gunne\OneDrive\Desktop\VS Projects\.vscode\CS\Brackeys_tutorial\obj\Debug\net6.0\Brackeys_tutorial.pdb
+C:\Users\gunne\OneDrive\Desktop\VS Projects\.vscode\CS\Brackeys_tutorial\obj\Debug\net6.0\Brackeys_tutorial.genruntimeconfig.cache
+C:\Users\gunne\OneDrive\Desktop\VS Projects\.vscode\CS\Brackeys_tutorial\obj\Debug\net6.0\ref\Brackeys_tutorial.dll
